@@ -1,5 +1,16 @@
 # Timetable App
 
+This project is still a work in progress.
+
+## To do list:
+- User Interface and UX improvements
+- Data Management and CRUD operations
+- Session Tracking
+- Calendar Improvements and Export
+- Analytics and dashboard improvements
+- Testing
+- Deployment and CI/CD
+
 A web application to help students generate personalized study timetables based on exam deadlines, study preferences, and exclusions. Users can review the generated timetable in a traditional calendar view and export it to Apple Calendar, Google Calendar, or other calendar apps via an ICS file.
 
 ## Table of Contents
