@@ -1,6 +1,7 @@
 # Timetable App
 
 This project is still a work in progress.
+All changes are in the master branch
 
 ## To do list:
 - User Interface and UX improvements
